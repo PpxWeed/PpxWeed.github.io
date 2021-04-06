@@ -60,3 +60,10 @@ p {
     line-height: 1.6;
     margin-bottom: 20px;
 }
+
+a
+{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'PT Sans',sans-serif;
+}

@@ -75,3 +75,10 @@ p {
     margin-top: 0;
     margin-bottom: 22px;
 }
+
+a
+{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'PT Sans',sans-serif;
+}

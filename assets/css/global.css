@@ -30,12 +30,13 @@ input, button, textarea, select { font: inherit }
 body { 
     text-align: center;
     font-family: sans-serif;
-    background: rgba(255, 0, 0, 0.658);
+    background: black;
 }
 
 h1 {
+    color: white;
     font-family: 'Kinsta',sans-serif;
-    font-size: 54px;
+    font-size: 65px;
     font-weight: bold;
     letter-spacing: -2px;
     margin-bottom: 12px;
@@ -43,6 +44,7 @@ h1 {
 }
 
 h2 {
+    color: white;
     font-size: 42px;
     letter-spacing: 6px;
     margin-bottom: 48px;
@@ -50,6 +52,7 @@ h2 {
 }
 
 h3 {
+    color: white;
     font-weight: bold;
     font-family: 'PT Sans',sans-serif;
     font-size: 32px;
@@ -60,7 +63,18 @@ h3 {
 }
 
 p {
+    color: white;
     font-family: 'Work Sans',sans-serif;
     font-size: 18px;
     margin-bottom: 16px;
+}
+
+/* Image div */
+.image{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px;
+    display: block;
+	text-align : center;
+    width: 20px;
 }

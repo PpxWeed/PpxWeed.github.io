@@ -56,3 +56,10 @@ p {
     color: #81b8cd;
 }
 a { color: white }
+
+b
+{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'PT Sans',sans-serif;
+}

@@ -63,3 +63,10 @@ img {
     margin-bottom: 32px;
     border-radius: 15px;
 }
+
+a
+{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'PT Sans',sans-serif;
+}

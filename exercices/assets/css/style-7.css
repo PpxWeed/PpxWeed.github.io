@@ -79,5 +79,12 @@ p {
     line-height: 1.6;
     margin-top:0;
     margin-bottom: 32px;
+    
+}
+a
+{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'PT Sans',sans-serif;
 }
 

@@ -58,3 +58,10 @@ p {
     margin-bottom: 20px;
 }
 a { color: white }
+
+b
+{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'PT Sans',sans-serif;
+}
