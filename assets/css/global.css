@@ -78,3 +78,39 @@ p {
 	text-align : center;
     width: 20px;
 }
+
+/* == FLEXBOX PARENT CONTAINER == */
+.container-flexbox { 
+    display: flex; 
+    justify-content: space-between;
+    flex-wrap: wrap
+    
+    
+}
+.col1{
+    background-color: linear-gradient(90deg,#f7506c,#f7bd50);
+    padding: 12px; 
+    margin-bottom: 40px; 
+    width: 23% 
+}
+
+.col2{
+    background-image: linear-gradient(90deg,#f7506c,#f7bd50);
+    padding: 12px; 
+    margin-bottom: 40px; 
+    width: 23% 
+}
+
+.col3{
+    background-image: linear-gradient(90deg,#6b2d38,#cd6065);
+    padding: 12px; 
+    margin-bottom: 40px; 
+    width: 23% 
+}
+
+.col4{
+    background-image: linear-gradient(90deg,#b8ea0a,#50c8f7);
+    padding: 12px; 
+    margin-bottom: 40px; 
+    width: 23% 
+}
