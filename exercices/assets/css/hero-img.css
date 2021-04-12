@@ -100,7 +100,12 @@ body {
 
 .bo
 {
-    text-align: right;
+    text-align: center;
+}
+
+.back
+{
+    width: 75px;
 }
 
 

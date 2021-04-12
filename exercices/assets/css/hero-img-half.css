@@ -154,5 +154,10 @@ header .hero-wrapper a.btn-round { border-radius: 30px }
 
 .bo
 {
-    text-align: right;
+    text-align: center;
+}
+
+.back
+{
+    width: 75px;
 }
