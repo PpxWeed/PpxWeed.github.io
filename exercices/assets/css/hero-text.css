@@ -37,7 +37,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(90deg,#6b2d38,#cd6065);
+    background-image: linear-gradient(90deg,#396b2d,#60cd65);
 }
 
 .hero-block h1, .hero-block h2 {
@@ -144,7 +144,7 @@ body {
   
 
   .col4{
-    background-image: linear-gradient(90deg,#b8ea0a,#50c8f7);
+    background-image: linear-gradient(90deg,#9cea0a,#eeff50);
     padding: 12px; 
     margin-bottom: 40px; 
     text-align: center;
