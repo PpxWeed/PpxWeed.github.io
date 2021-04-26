@@ -238,6 +238,7 @@ section p {
 
 /* =============== FORMS ============== */
 .container-form { 
+    display: flex;
     margin-top: 32px; margin-bottom: 32px;
     align-items: stretch;
     padding: 20px; background-color: lightgray;
@@ -261,6 +262,19 @@ section p {
     border: solid 1px gray;
     font-size: 18px;
     font-family: sans-serif;
+}
+
+.container-form #form-status {
+    background-color: #e4f5e8;
+    border: solid 1px green;
+    padding: 10px;
+    line-height: 1.1;
+    font-size: 18px;
+    color: #000;
+    display: none;
+    font-family: sans-serif;
+    margin-top: 12px;
+    max-width: 320px;
 }
 
 /* =============== UTILITY CLASSES ============== */
