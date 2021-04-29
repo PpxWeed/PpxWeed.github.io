@@ -87,8 +87,11 @@ p {
     
     
 }
+
+
+
 .col1{
-    background-color: linear-gradient(90deg,#f7506c,#f7bd50);
+    background-image: linear-gradient(90deg,#321147,#182853);
     padding: 12px; 
     margin-bottom: 40px; 
     width: 23% 
