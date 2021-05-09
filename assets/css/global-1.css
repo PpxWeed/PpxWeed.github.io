@@ -267,14 +267,14 @@ p, li { color: #403d50 }
 
 /* background colour */
 .menu-light { 
-	background-color: #fff;
+	background-image: linear-gradient(90deg,#2d1d77,#361744);
 	transition: all .5s ease-in-out;
 }
 
 /* menu links */
 
 .menu-light ul li a { font-weight: 500 } 
-.menu-light ul li a:link,  .menu-light ul li a:visited { color: #403d50 }
+.menu-light ul li a:link,  .menu-light ul li a:visited { color: #d0cedb }
 .menu-light ul li a:hover, .menu-light ul li a:active  { color: rgb(49,145,131) }
 
 /* cta button */
@@ -289,7 +289,7 @@ p, li { color: #403d50 }
 
 .menu-light ul li a.btn-cta:hover,
 .menu-light ul li a.btn-cta:active {
-    border-color: #403d50;
+    border-color: #b6b2cc;
     background-color: #3a2a97;
     color: rgb(12, 209, 100)
 }
@@ -371,7 +371,7 @@ a[href^=tel] { text-decoration: none; color: red }
 
 .container-flexbox.container-hero-block-two-columns .item-2 h2 { 
 	font-weight: normal; 
-	color: #4b6584;
+	color: #000000;
     line-height: 1.3;
 	margin-bottom: 30px;    
 	font-size: calc(18px + (28 - 18) * ((100vw - 320px) / (1600 - 320))); 
@@ -574,7 +574,7 @@ img.image-circle {
 }
 
 .container-flexbox .item-1 h2 {
-    color: #2c3e50;
+    color: #ffffff;
     line-height: 1.2; margin-bottom: 8px;
     letter-spacing:-1px;
     font-size: calc(24px + (48 - 24) * ((100vw - 320px)/(1600 - 320)));
@@ -583,6 +583,7 @@ img.image-circle {
 .container-flexbox .item-1 p {
     line-height: 1.5; margin-bottom: 14px;
     font-size: calc(17px + (22 - 17) * ((100vw - 320px)/(1600 - 320)));
+    color: #ffffff;
 }
 
 @media all and (max-width:767px) {
@@ -594,6 +595,7 @@ img.image-circle {
 .container-flexbox .item-3 p {
     line-height: 1.5; margin-bottom:20px;
     font-size: calc(16px + (18 - 16) * ((100vw - 320px)/(1600 - 320)));
+    color: #ffffff;
 }
 
 .container-flexbox .item-2 h3,

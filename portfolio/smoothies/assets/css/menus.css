@@ -399,7 +399,7 @@ a[href^=tel] { text-decoration: none; color: #fff }
 }
 
 /* menu links */
-.menu-transparent ul li a:link,  .menu-transparent ul li a:visited { color: #fff }
+.menu-transparent ul li a:link,  .menu-transparent ul li a:visited { color: rgb(0, 0, 0) }
 .menu-transparent ul li a:hover, .menu-transparent ul li a:active  { color: #b8b8b8 }
 
 /* cta button */
